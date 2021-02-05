@@ -9,7 +9,7 @@
 		<content>
 			<l:VerticalLayout>
 				<! Changes by webIDE---->
-                <!-- Changes in BAS -->
+                <!-- Changes in BAS-->
 				<ComboBox
 					id="idComboBox"
 					showSecondaryValues= "true"
